@@ -1,0 +1,11 @@
+===== Command Line Dictionary =====
+1. Add a word
+2. Search for a word
+3. Update a word
+4. Delete a word
+5. Display all words
+6. Exit
+Enter your choice: 1
+Enter the word: Algorithm
+Enter the definition: A step-by-step procedure for solving a problem.
+Word added successfully!
